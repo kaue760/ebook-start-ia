@@ -1,0 +1,6 @@
+{
+  "name": "Start IA",
+  "description": "Start IA sales landing page for the ebook",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
